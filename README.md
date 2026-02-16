@@ -15,8 +15,11 @@ A modern brand landing page built with React and Vite.
 - Fast development with Vite
 
 ## 📸 Preview
+# React Brand Page
 
-![Project Screenshot](./screenshot.png)
+![Project Preview](public/screenshot.png)
+
+A modern brand landing page built with React and Vite.
 
 ## 🛠 Installation
 
