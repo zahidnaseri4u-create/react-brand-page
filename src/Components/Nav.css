@@ -1,0 +1,17 @@
+:root{
+    --gray : rgb(41, 35, 35);
+}
+
+nav{
+    justify-items: center;
+}
+nav ul{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: var(--gray);
+}
+nav button{
+    padding: 6px 16px !important;
+}
